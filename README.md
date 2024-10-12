@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 -->
 
 🌱 I’m currently learning at Zhejiang University of Technology.
+
 📫 How to reach me: xchawai#outlook.com
+
 ⚡ Fun fact: I'm a green hand at programming...
+
 I think that's it.
