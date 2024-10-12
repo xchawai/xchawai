@@ -5,10 +5,6 @@
 
 Here are some ideas to get you started:
 
-🌱 I’m currently learning at Zhejiang University of Technology.
-📫 How to reach me: xchawai#outlook.com
-⚡ Fun fact: I'm a green hand at programming?
-I think that's it?
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -18,3 +14,8 @@ I think that's it?
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🌱 I’m currently learning at Zhejiang University of Technology.
+📫 How to reach me: xchawai#outlook.com
+⚡ Fun fact: I'm a green hand at programming...
+I think that's it.
